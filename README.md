@@ -25,6 +25,8 @@ http://localhost:8080/oauth/token
 
 The Authorization header must contain the value "Basic xxx", where xxx is the base64 for client_id:client_secret (as decribed in RFC section-2.3.1).
 
+Spring Security documentation: http://projects.spring.io/spring-security-oauth/docs/oauth2.html
+
 # Related books
 * [Spring Security 3.x Cookbook](https://www.packtpub.com/application-development/spring-security-3x-cookbook?utm_source=github&utm_medium=related&utm_campaign=9781782167525)
 * [Learning Spring Boot](https://www.packtpub.com/application-development/learning-spring-boot?utm_source=github&utm_medium=related&utm_campaign=9781784393021)
